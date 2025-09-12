@@ -1,1 +1,1 @@
-# Aprendendo-Go
+# Curso-Go
