@@ -12,7 +12,7 @@ func notaPraConceito(n float64) string {
 	} else if n >= 3 && n < 5 {
 		return "D"
 	} else {
-		return "F"
+		return "E"
 	}
 }
 
